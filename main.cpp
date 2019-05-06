@@ -5,7 +5,7 @@
 
 #define INIT_PUSH 10000
 #define MAX_THREAD_NUM 100
-#define MAX_VOLUME 1000000
+#define MAX_VOLUME 10000000
 
 class LockStack {
 public:
